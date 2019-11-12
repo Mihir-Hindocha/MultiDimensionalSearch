@@ -1,0 +1,71 @@
+401.txt
+=======
+1448
+Time: 16 msec.
+Memory: 5 MB / 245 MB.
+
+402.txt
+=======
+4142
+Time: 10 msec.
+Memory: 5 MB / 245 MB.
+
+403.txt
+=======
+11132
+Time: 32 msec.
+Memory: 6 MB / 245 MB.
+
+404.txt
+=======
+52018
+Time: 73 msec.
+Memory: 8 MB / 245 MB.
+
+405.txt
+=======
+16494
+Time: 104 msec.
+Memory: 15 MB / 245 MB.
+
+406.txt
+=======
+19005
+Time: 144 msec.
+Memory: 25 MB / 245 MB.
+
+407.txt
+=======
+489174
+Time: 174 msec.
+Memory: 24 MB / 245 MB.
+
+420.txt
+=======
+1016105100
+Time: 32557 msec.
+Memory: 1018 MB / 2154 MB.
+
+lp3-big-100k.txt
+================
+565882895418
+Time: 3457 msec.
+Memory: 396 MB / 729 MB.
+
+lp3-big-200k.txt
+================
+12957774
+Time: 20032 msec.
+Memory: 1215 MB / 1761 MB.
+
+lp3-big-300k.txt
+================
+29000824
+Time: 30466 msec.
+Memory: 1481 MB / 2197 MB.
+
+lp3-big-500k.txt
+================
+303607214
+Time: 63975 msec.
+Memory: 1577 MB / 2683 MB.

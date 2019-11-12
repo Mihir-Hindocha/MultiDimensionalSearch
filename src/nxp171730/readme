@@ -1,0 +1,26 @@
+This is a readme file containing instructions for executing code for Long Project 3 - Multi Dimensional Search
+
+Authors:
+	1. Mihir Hindocha   - mxh170027
+	2. Nihal Abdulla PT - nxp171730
+	3. Amal Mohan       - axm179030
+
+Steps for running code from the cmd prompt
+1.Go to the directory containing the package nxp171730 is present
+2.Copy paste the LP3Driver.java
+2.Compile the LP3Driver.java by executing the following commands
+		>javac -Xlint nxp171730/LP3Driver.java
+
+3.To execute the main(driver) code
+		>java nxp171730/LP3Driver {path to lp3-inputs} true/false
+
+IMPLEMENTED
+===========
+1. Insert(id,price,list)
+2. Find(id)
+3. Delete(id)
+4. FindMinPrice(n)
+5. FindMaxPrice(n)
+6. FindPriceRange(n,low,high)
+7. PriceHike(l,h,r)
+8. RemoveNames(id, list)
